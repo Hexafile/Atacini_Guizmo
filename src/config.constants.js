@@ -1,0 +1,1 @@
+export const supportedGames = ['league of legends','rocket league', 'world of warships'];

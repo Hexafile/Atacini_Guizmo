@@ -1,0 +1,6 @@
+{
+    "URL_MATCH_INFO" : "/lol/match/v4/matches/{matchId}",
+    "IN_GAME" : "En jeu",
+    "HOST" : "euw1.api.riotgames.com",
+    "API_QUERY":"api_key:"
+}

@@ -1,0 +1,6 @@
+# Dependency directories
+build/
+node_modules/
+
+# Tokens and some sensitive things
+config.json
